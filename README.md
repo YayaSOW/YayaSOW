@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack Developer** with a strong **DevOps & Cloud mindset**.  
+I'm a **Full-Stack Developer** Java(SpringBoot)/Angular with a strong **DevOps & Cloud mindset**.  
 I focus on building **production-ready applications** with clean architecture and automation.
 
 - ⚙️ I bridge the gap between **code and infrastructure**
