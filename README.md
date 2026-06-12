@@ -42,10 +42,10 @@ I focus on building **production-ready applications** with clean architecture an
 ### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet">
 </p>
 
 ---
