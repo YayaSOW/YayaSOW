@@ -110,8 +110,6 @@ I focus on building **production-ready applications** with clean architecture an
 - ⚡ Optimized MongoDB schema
 - 🚀 CI/CD + Docker deployment
 
-👉 [Repository](https://github.com/YayaSOW/gestion-absences)
-
 ---
 
 ### 🧾 SaaS Facturation
@@ -121,8 +119,6 @@ I focus on building **production-ready applications** with clean architecture an
 - ⚡ Angular 19+
 - 📊 MongoDB + TypeORM
 - 🚀 VPS deployment + monitoring
-
-👉 [Repository](https://github.com/ton-pseudo/saas-facturation)
 
 ---
 
