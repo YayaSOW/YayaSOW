@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Yaya SOW </h1>
+<h1 align="center"> Hi, I'm Yaya SOW </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=600&color=2E9AFE&center=true&width=650&lines=Full-Stack+Developer;DevOps+%26+Cloud+Enthusiast;I+build+scalable+and+reliable+systems;Always+learning+%26+shipping" />
