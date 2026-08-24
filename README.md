@@ -10,23 +10,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Full-Stack Developer** Java(SpringBoot)/Angular with a strong **DevOps & Cloud mindset**.  
 I focus on building **production-ready applications** with clean architecture and automation.
 
-- ⚙️ I bridge the gap between **code and infrastructure**
-- 🚀 I build **scalable, secure, and maintainable systems**
-- 🌱 Currently exploring **Next.js, Kubernetes & Terraform**
-- ☁️ AWS Certified Cloud Practitioner
-- 💡 Built a **full-stack + CI/CD production app** (Spring Boot + Angular + Flutter + MongoDB)
-- 🎓 Master **CTO & Tech Lead** @ HETIC (2025–2027)
+- I bridge the gap between **code and infrastructure**
+- I build **scalable, secure, and maintainable systems**
+- Currently exploring **Next.js, Kubernetes & Terraform**
+- AWS Certified Cloud Practitioner
+- Built a **full-stack + CI/CD production app** (Spring Boot + Angular + Flutter + MongoDB)
+- Master **CTO & Tech Lead** @ HETIC (2025–2027)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -39,7 +39,7 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-### ⚙️ Backend
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot">
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony">
@@ -50,7 +50,7 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-### 🎨 Frontend & Mobile
+### Frontend & Mobile
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter">
@@ -60,7 +60,7 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql">
@@ -69,7 +69,7 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions">
@@ -80,7 +80,7 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-### 🧰 Design
+### Design
 <p>
   
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -91,7 +91,7 @@ I focus on building **production-ready applications** with clean architecture an
   <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop">
 </p>
 
-### 🪛 Tools
+### Tools
 <p>  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
@@ -100,29 +100,29 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📊 Gestion des Absences
+### Gestion des Absences
 > Full-stack system for school attendance tracking
 
-- 🔐 Secure backend (Spring Boot, JWT, RBAC)
-- 📱 Angular + Flutter (web & mobile)
-- ⚡ Optimized MongoDB schema
-- 🚀 CI/CD + Docker deployment
+- Secure backend (Spring Boot, JWT, RBAC)
+- Angular + Flutter (web & mobile)
+- Optimized MongoDB schema
+- CI/CD + Docker deployment
 
 ---
 
-### 🧾 SaaS Facturation
+### SaaS Facturation
 > Scalable microservices invoicing platform
 
-- 🧩 NestJS microservices architecture
-- ⚡ Angular 19+
-- 📊 MongoDB + TypeORM
-- 🚀 VPS deployment + monitoring
+- NestJS microservices architecture
+- Angular 19+
+- MongoDB + TypeORM
+- VPS deployment + monitoring
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YayaSOW&show_icons=true&theme=radical&hide_border=true" />
@@ -135,7 +135,7 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/yaya-sw/">
@@ -148,7 +148,7 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-## 🎯 Fun Zone (Better Version 😏)
+## Fun Zone (Better Version 😏)
 
 > “First, solve the problem. Then, write the code.” – John Johnson  
 >  
