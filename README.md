@@ -148,7 +148,7 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-## Fun Zone (Better Version 😏)
+## Fun Zone (Better Version)
 
 > “First, solve the problem. Then, write the code.” – John Johnson  
 >  
