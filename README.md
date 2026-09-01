@@ -112,7 +112,7 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-### SaaS Facturation:
+### SaaS Facturation
 > Scalable microservices invoicing platform
 
 - NestJS microservices architecture
