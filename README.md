@@ -102,7 +102,7 @@ I focus on building **production-ready applications** with clean architecture an
 
 ## Featured Projects
 
-### Gestion des Absences:
+### Gestion des Absences
 > Full-stack system for school attendance tracking
 
 - Secure backend (Spring Boot, JWT, RBAC)
