@@ -100,19 +100,6 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YayaSOW&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YayaSOW&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YayaSOW&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## Let's Connect
 
 <p>
