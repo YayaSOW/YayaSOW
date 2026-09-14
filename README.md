@@ -101,15 +101,6 @@ I focus on building **production-ready applications** with clean architecture an
 ---
 
 ## Featured Projects
-### SaaS Facturation
-> Scalable microservices invoicing platform
-
-- NestJS microservices architecture
-- Angular 19+
-- MongoDB + TypeORM
-- VPS deployment + monitoring
-
----
 
 ## GitHub Analytics
 
