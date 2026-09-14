@@ -101,17 +101,6 @@ I focus on building **production-ready applications** with clean architecture an
 ---
 
 ## Featured Projects
-
-### Gestion des Absences
-> Full-stack system for school attendance tracking
-
-- Secure backend (Spring Boot, JWT, RBAC)
-- Angular + Flutter (web & mobile)
-- Optimized MongoDB schema
-- CI/CD + Docker deployment
-
----
-
 ### SaaS Facturation
 > Scalable microservices invoicing platform
 
