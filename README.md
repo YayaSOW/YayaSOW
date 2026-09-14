@@ -100,8 +100,6 @@ I focus on building **production-ready applications** with clean architecture an
 
 ---
 
-## Featured Projects
-
 ## GitHub Analytics
 
 <p align="center">
